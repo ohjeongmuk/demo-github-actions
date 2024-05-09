@@ -5,6 +5,6 @@ import prefetch from "@astrojs/prefetch";
 
 export default defineConfig({
   integrations: [tailwind(), sitemap(), prefetch()],
-  site: "https://adulbrich.github.io",
+  site: "https://github.com/ohjeongmuk/FullStack-Web-Dev-2024",
   base: "/demo-github-actions",
 });
